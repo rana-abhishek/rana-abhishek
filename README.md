@@ -53,5 +53,5 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/abhishek-rana-823277170/
-[email]: abhishek971996@gmail.com
+[email]: mailto:abhishek971996@gmail.com
 
